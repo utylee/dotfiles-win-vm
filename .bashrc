@@ -1,7 +1,7 @@
 #export WORKON_HOME=~/.virtualenvs
 #export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
 #source /usr/local/bin/virtualenvwrapper.sh
-source ~/.bash/functions
+#source ~/.bash/functions
 export TERM=xterm-256color
 
 alias ll='ls -lhF'
